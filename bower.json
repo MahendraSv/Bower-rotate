@@ -1,17 +1,18 @@
 {
-  "name": "Bower-rotate",
-  "description": "A simple element rotate library",
-  "main": "rotate.js",
-  "moduleType": [],
-  "keywords": [
+    "name": "Bower-rotate",
+    "version": "0.0.2",
+    "description": "A simple element rotate library",
+    "main": "rotate.js",
+    "moduleType": [],
+    "keywords": [
     "rotate"
   ],
-  "authors": [
+    "authors": [
     "Mahendra Singamsetty"
   ],
-  "license": "MIT",
-  "homepage": "",
-  "ignore": [
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
